@@ -1,0 +1,13 @@
+body{
+    background-image: url(image\ copy.png); background-repeat: no-repeat;
+    background-color: black;
+}
+div{
+    display: inline-block;
+    margin-left: 500px;
+    color: aliceblue;
+    text-align: center;
+}
+div p{
+    font-size: 18px;
+}
